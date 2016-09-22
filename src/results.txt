@@ -1,0 +1,9 @@
+Election input file : person.txt
+Number of candidates: 3
+The candidates:  
+    Larry Smith
+    Moe Jones
+    Curly Sampson
+total ballots: 4
+Legal ballots: 
+discarded ballots: 
